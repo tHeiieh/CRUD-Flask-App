@@ -26,9 +26,9 @@ Authorization: Bearer your_jwt_token_here
 **Request Body:**
 ```json
 {
-    "name": "John Doe",
-    "username": "johndoe",
-    "password": "securepassword123"
+   "name": "Taha Abdo",
+    "username": "TahaAbdo",
+    "password": "Taha123"
 }
 ```
 **Response:**
